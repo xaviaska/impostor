@@ -1,0 +1,5 @@
+# Mai pujar secrets ni dades locals
+.streamlit/secrets.toml
+dades/*.sqlite
+__pycache__/
+.venv/

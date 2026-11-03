@@ -1,0 +1,41 @@
+# Un tema per línia. Les línies que comencen per # s'ignoren.
+Platja
+Hospital
+Aeroport
+Supermercat
+Escola
+Cinema
+Restaurant
+Biblioteca
+Gimnàs
+Zoo
+Museu
+Discoteca
+Estació de tren
+Camp de futbol
+Piscina
+Hotel
+Càmping
+Castell
+Vaixell pirata
+Estació espacial
+Granja
+Circ
+Perruqueria
+Comissaria
+Casament
+Festa d'aniversari
+Concert
+Falles
+Muntanya
+Bosc
+Desert
+Selva
+Pizza
+Paella
+Gelat
+Guitarra
+Bicicleta
+Paraigua
+Telèfon mòbil
+Dinosaure
