@@ -46,7 +46,7 @@ def mostra_enllacos() -> None:
 
     for nom, enllac in ss[f"{P}_enllacos"].items():
         obert = comptador().vegades(id_enllac(id_sorteig, nom)) > 0
-                text = f"Hola {nom}! Aquí tens el teu amic invisible de «{nom_sorteig}». És només per a tu:\n\n{enllac}"
+        text = f"Hola {nom}! Aquí tens el teu amic invisible de «{nom_sorteig}». És només per a tu:\n\n{enllac}"
         with st.container(border=True):
             c1, c2 = st.columns([3, 2])
             estat = "✅ Ja l'ha obert" if obert else "⏳ Encara no l'ha obert"
